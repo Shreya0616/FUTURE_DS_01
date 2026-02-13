@@ -27,3 +27,9 @@ Technology category generates the highest revenue.
 Certain regions outperform others in total sales.
 Revenue shows monthly variation across years.
 A small number of products contribute significantly to total sales.
+
+How to Run:
+Clone repository
+Open notebook/sales_analysis.ipynb
+Install pandas and matplotlib
+Run all cells
