@@ -28,6 +28,13 @@ Certain regions outperform others in total sales.
 Revenue shows monthly variation across years.
 A small number of products contribute significantly to total sales.
 
+Business Recommendations:
+Increase stock for Technology products
+Run targeted ads for Technology category
+Expand sales strategy in high performing regions
+Investigate low revenue regions for improvement
+Promote top 10 products using bundles or discounts
+
 How to Run:
 Clone repository
 Open notebook/sales_analysis.ipynb
